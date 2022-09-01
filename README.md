@@ -26,7 +26,9 @@ Follow this link
 
 # Running Tests
 * Task 2
-    * [![Video Demo](http://img.youtube.com/vi/mOAlquvPvFo/0.jpg)](bit.ly/3RfkCmj)
+     <a href="http://www.youtube.com/watch?feature=player_embedded&v=mOAlquvPvFo" target="_blank">
+          <img src="http://img.youtube.com/vi/mOAlquvPvFo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+     </a>
     * Binary
         * [link](bit.ly/3V4ftrG)
         * [instructions](https://docs.microsoft.com/en-us/hololens/app-deploy-app-installer#installation-method)
