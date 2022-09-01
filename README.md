@@ -25,16 +25,15 @@ Follow this link
     * In the section below, edit the Machine Name to the IP Address of the HoloLens 2
 
 # Running Tests
-
-     Task 2 Video Demo 
+* Task 2 Video Demo 
      
      <a href="http://www.youtube.com/watch?feature=player_embedded&v=mOAlquvPvFo" target="_blank">
           <img src="http://img.youtube.com/vi/mOAlquvPvFo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
      </a> 
      
-     Task 2 Binary 
-        * [Download Link](https://www.dropbox.com/s/9e6x617cjpcf0c9/ARBaselineEnv_1.0.0.0_x86_x64_arm_arm64.appxbundle?dl=0)
-        * [How to Install](https://docs.microsoft.com/en-us/hololens/app-deploy-app-installer#installation-method)
+* Task 2 Binary 
+     * [Download Link](https://www.dropbox.com/s/9e6x617cjpcf0c9/ARBaselineEnv_1.0.0.0_x86_x64_arm_arm64.appxbundle?dl=0)
+     * [How to Install](https://docs.microsoft.com/en-us/hololens/app-deploy-app-installer#installation-method)
 
     * When the Application runs, the HoloLens 2 view is being recorded as a video, locally and the user interactions are being recorded to Cognitive3D.
 ## Cognitive3D
