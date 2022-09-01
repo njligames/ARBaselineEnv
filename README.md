@@ -23,7 +23,8 @@
 
 # Running Tests
 * Task 2 Video Demo 
-     * Cognitive3D scene - https://bit.ly/3q6hPA6
+     * Cognitive3D scene - https://bit.ly/3q6hPA6 
+     
      <a href="http://www.youtube.com/watch?feature=player_embedded&v=mOAlquvPvFo" target="_blank">
           <img src="http://img.youtube.com/vi/mOAlquvPvFo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
      </a> 
