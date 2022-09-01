@@ -9,16 +9,13 @@
 
 ## Steps
 ### Unity
+1. Open the project from Unity Hub
+2. Press the Play Button. 
 ### HoloLens 2
-Follow this link
-* How to build AR Application to HoloLens 2 - [LINK](https://arvrjourney.com/how-to-build-your-ar-application-to-your-hololens-2-ca0640a01246)
-     
-<OR> 
- 
 1. Open the solution with Microsoft Visual Studio 2022
-* Set the Solution Configuration to Release
-* Set the Solution Platform to ARM64
-* Set the Machine Name for Debugging.
+2. Set the Solution Configuration to Release
+3. Set the Solution Platform to ARM64
+4. Set the Machine Name for Debugging.
     * From the Visual Studio menu; Project -> Properties
     * Under Configuration Properties, click Debugging
     * Under Debugger to launch, choose Remote Machine
