@@ -31,8 +31,8 @@ Follow this link
      </a> 
      
     * Binary
-        * [link](https://www.dropbox.com/s/9e6x617cjpcf0c9/ARBaselineEnv_1.0.0.0_x86_x64_arm_arm64.appxbundle?dl=0)
-        * [instructions](https://docs.microsoft.com/en-us/hololens/app-deploy-app-installer#installation-method)
+        * [Download Link](https://www.dropbox.com/s/9e6x617cjpcf0c9/ARBaselineEnv_1.0.0.0_x86_x64_arm_arm64.appxbundle?dl=0)
+        * [How to Install](https://docs.microsoft.com/en-us/hololens/app-deploy-app-installer#installation-method)
 
     * When the Application runs, the HoloLens 2 view is being recorded as a video, locally and the user interactions are being recorded to Cognitive3D.
 ## Cognitive3D
