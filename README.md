@@ -35,7 +35,8 @@ Follow this link
      * [Download Link](https://www.dropbox.com/s/9e6x617cjpcf0c9/ARBaselineEnv_1.0.0.0_x86_x64_arm_arm64.appxbundle?dl=0)
      * [How to Install](https://docs.microsoft.com/en-us/hololens/app-deploy-app-installer#installation-method)
 
-    * When the Application runs, the HoloLens 2 view is being recorded as a video, locally and the user interactions are being recorded to Cognitive3D.
+    * When the Application runs, the HoloLens 2 view is being recorded as a video, locally and the user interactions are being recorded to Cognitive3D. The video is located in: `User Folders\LocalAppData\AugmentedRealityBaselineEnvironment*\LocalState\ARBaselineEnv_*.mp4`, where the asterisk represents a generated string, which changes every install. 
+     
 ## Cognitive3D
 * Open the [Dashboard](https://app.cognitive3d.com/organizations), Login needed.
 * Click on the `National Institute of Standards and Technology` Organization.
@@ -72,8 +73,6 @@ To run the simulation, Press the play button.
     * To remove the hands, press those keys again.
 
 ## HoloLens 2
-*The Visual Studio project is located at: `HoloLens2Project/ARBaselineEnv.sln`* 
-
 When running the application, the HoloLens 2 view is being recorded. The video can be found by opening the File Explorer in the Windows Device Portal. (System -> File explorer) 
 
 The Windows Device Portal is opened while navigating to the webaddress of the HoloLense 2, while it is activated. 
