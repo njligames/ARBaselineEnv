@@ -1,0 +1,39 @@
+{
+  "extensionsUsed": [
+    "KHR_lights_punctual"
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "gazereticle.bin",
+      "byteLength": 0
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "GazeReticle"
+    },
+    {
+      "scale": [
+        0.05,
+        0.05,
+        0.05
+      ],
+      "name": "New Sprite"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "gazereticle"
+    }
+  ]
+}
