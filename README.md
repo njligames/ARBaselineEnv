@@ -5,6 +5,7 @@
 * Unity - Editor Version 2020.3.38f1
 * Microsoft Visual Studio 2022
 * HoloLens 2 Device
+* Mixed Reality Tookkit Version 2.8.2.0
 
 ## Steps
 ### Unity
