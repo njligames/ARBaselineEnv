@@ -25,7 +25,8 @@ Follow this link
     * In the section below, edit the Machine Name to the IP Address of the HoloLens 2
 
 # Running Tests
-* Task 2
+## Task 2 
+     * Video Demo 
      <a href="http://www.youtube.com/watch?feature=player_embedded&v=mOAlquvPvFo" target="_blank">
           <img src="http://img.youtube.com/vi/mOAlquvPvFo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
      </a> 
