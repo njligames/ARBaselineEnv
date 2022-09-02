@@ -6,6 +6,7 @@
 * Microsoft Visual Studio 2022
 * HoloLens 2 Device
 * Mixed Reality Tookkit Version 2.8.2.0
+* Cognitive VR Version 0.26.20
 
 ## Steps
 ### Unity
